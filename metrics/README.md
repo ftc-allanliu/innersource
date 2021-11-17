@@ -14,4 +14,4 @@ It's important to think about what success means to you. Have clear goals before
 - Submodule usage
 
 ### The bigger picture
-Measuring success is about more than measuring certain data points. Measuring success is about setting goals,  checking in with the progress of those goals, and making adjustments where needed. **What are your Innersource goals?**
+Measuring success is about more than measuring certain data points. Measuring success is about setting goals,  checking in with the progress of those goals, and making adjustments where needed. **What are your Innersource goals?** - I don't know.
